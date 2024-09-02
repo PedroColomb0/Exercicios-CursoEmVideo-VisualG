@@ -1,8 +1,8 @@
 Algoritmo "Exercicio_2"
-// Atividade : Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas para ela:
+// Atividade : Faï¿½a um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas para ela:
 //Ex:
-//Qual é o seu nome? João da Silva
-//Olá João da Silva, é um prazer te conhecer!
+//Qual ï¿½ o seu nome? Joï¿½o da Silva
+//Olï¿½ Joï¿½o da Silva, ï¿½ um prazer te conhecer!
 // ----------------------------------------------------------------------------
 // Autor :  PedroColomb0
 // Data : 09/02/2024
@@ -19,10 +19,10 @@ Inicio
 // Escreva -> Saida de dados
 // Leia -> Entrada de dados
 
-   Escreva("Qual é o seu nome? ")
+   Escreva("Qual ï¿½ o seu nome? ")
    Leia(Nome)
    
-   Escreva("Olá ",nome,", é um prazer te conhecer! ")
+   Escreva("Olï¿½ ",nome,", ï¿½ um prazer te conhecer! ")
 
 
 Fimalgoritmo
